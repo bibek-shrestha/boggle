@@ -1,0 +1,6 @@
+[submodule "boggle-api"]
+	path = boggle-api
+	url = https://github.com/bibek-shrestha/boggle-api.git
+[submodule "boggle-frontend"]
+	path = boggle-frontend
+	url = https://github.com/bibek-shrestha/boggle-frontend.git
